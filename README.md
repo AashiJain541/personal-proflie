@@ -1,2 +1,2 @@
 # personal-proflie
-a personal profile o
+a personal profile 
